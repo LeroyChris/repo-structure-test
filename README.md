@@ -1,5 +1,5 @@
 # StudyFlow - WCD03 Final Project
-StudyFlow adalah platform belajar berbasis web yang membantu mahasiswa mengatur waktu belajar, menjaga fokus deng
+StudyFlow adalah platform belajar berbasis web yang membantu mahasiswa mengatur waktu belajar, menjaga fokus dengan teknologi
 
 ## Identitas Project
 - Mata Kuliah: Web Client Development
